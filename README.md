@@ -91,10 +91,10 @@ There are two additional new versions of the algorithm under development:
 
 * H4 BTC/USDT Binance (default) - 01/01/2021 - 19/02/2022
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H.svg" width="1400">
+    <img src="https://github.com/magicdragon1101-ravi/algo_trading_weighted_strategy/blob/main/Examples/example_BTC_USDT_Binance_4H.svg" width="1400">
 </p>
 <p align="left">
-    <img src="https://github.com/AlbertoCuadra/algo_trading/blob/main/Examples/example_BTC_USDT_Binance_4H_results.svg" width="1400">
+    <img src="https://github.com/magicdragon1101-ravi/algo_trading_weighted_strategy/blob/main/Examples/example_BTC_USDT_Binance_4H_results.svg" width="1400">
 </p>
 
 ## How to use it
@@ -110,7 +110,7 @@ If you consider paying for a subscription on TradingView (which is not required 
 The monthly table performance was developed by @QuantNomad. I have only changed some colors and also adapted the calculations to the last previous candle. The purpose of this change is to make this script compatible with this weighted strategy. Thanks again to @QuantNomad for this amazing script!
 
 ## Questions?
-For discussions, questions, or just to share some settings, please leave a comment here in the [discussion channel](https://github.com/AlbertoCuadra/algo_trading_weighted_strategy/discussions).
+For discussions, questions, or just to share some settings, please leave a comment here in the [discussion channel](https://github.com/magicdragon1101-ravi/algo_trading_weighted_strategy/discussions).
 
 
 ## Developer
